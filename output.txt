@@ -1,0 +1,158 @@
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 1
+-----------------------
+Enter the value  : 34
+
+Linked List : [34 -> NULL]
+
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 1
+-----------------------
+Enter the value  : 21
+
+Linked List : [34 -> 21 -> NULL]
+
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 2
+-----------------------
+Enter the value to be inserted at Head : 90
+
+Linked List : [90 -> 34 -> 21 -> NULL]
+
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 3
+-----------------------
+Enter the value to be inserted at Tail : 45
+
+Linked List : [90 -> 34 -> 21 -> 45 -> NULL]
+
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 8
+-----------------------
+Enter value : 21
+
+Linked List : [90 -> 34 -> 45 -> NULL]
+
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 9
+-----------------------
+Enter value : 90
+Yes,it is present
+
+Linked List : [90 -> 34 -> 45 -> NULL]
+
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 9
+-----------------------
+Enter value : 78
+No,it isn't present
+
+Linked List : [90 -> 34 -> 45 -> NULL]
+
+---------------------------------------
+0.Display Linked List
+1.Insert Value
+2.Insert At Head
+3.Insert At Tail
+4.Insert At Specific Index
+5.Deletion At Head
+6.Deletion At Tail
+7.Deletion At Specific Index
+8.Discard Element
+9.To check that element is present or not
+10.Exit
+---------------------------------------
+-----------------------
+Enter Your Choice [0-9] : 10
+-----------------------
