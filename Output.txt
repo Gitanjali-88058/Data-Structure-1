@@ -1,158 +1,200 @@
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 1
------------------------
-Enter the value  : 34
 
-Linked List : [34 -> NULL]
+0 - Exit.
+1 - Push an element to the stack. 
+2 - Pop an element from the stack.
+3 - Display the stack. 
+4 - To return the top element.    
+5 - To check if stack is empty.   
+6 - To get the size of the stack. 
+7 - To clear the stack.
+--------------------------------- 
+Enter your choice: 1
+---------------------------------
 
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 1
------------------------
-Enter the value  : 21
+Enter the element to push: 1     
+-----------------------------     
 
-Linked List : [34 -> 21 -> NULL]
+0 - Exit.
+1 - Push an element to the stack. 
+2 - Pop an element from the stack.
+3 - Display the stack. 
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 1
+---------------------------------
 
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 2
------------------------
-Enter the value to be inserted at Head : 90
+Enter the element to push: 2
+-----------------------------
 
-Linked List : [90 -> 34 -> 21 -> NULL]
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 1
+---------------------------------
 
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 3
------------------------
-Enter the value to be inserted at Tail : 45
+Enter the element to push: 3
+-----------------------------
 
-Linked List : [90 -> 34 -> 21 -> 45 -> NULL]
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 1
+---------------------------------
 
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 8
------------------------
-Enter value : 21
+Enter the element to push: 4
+-----------------------------
 
-Linked List : [90 -> 34 -> 45 -> NULL]
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 1
+---------------------------------
 
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 9
------------------------
-Enter value : 90
-Yes,it is present
+Enter the element to push: 5
+-----------------------------
 
-Linked List : [90 -> 34 -> 45 -> NULL]
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 3
+---------------------------------
+Stack is  5 4 3 2 1
+-----------------------------
 
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 9
------------------------
-Enter value : 78
-No,it isn't present
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 2
+---------------------------------
 
-Linked List : [90 -> 34 -> 45 -> NULL]
+5 is removed
+-----------------------------
 
----------------------------------------
-0.Display Linked List
-1.Insert Value
-2.Insert At Head
-3.Insert At Tail
-4.Insert At Specific Index
-5.Deletion At Head
-6.Deletion At Tail
-7.Deletion At Specific Index
-8.Discard Element
-9.To check that element is present or not
-10.Exit
----------------------------------------
------------------------
-Enter Your Choice [0-9] : 10
------------------------
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 3
+---------------------------------
+Stack is  4 3 2 1
+-----------------------------
+
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 4
+---------------------------------
+
+Element at the top of the stack: 4
+-----------------------------
+
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 5
+---------------------------------
+Stack is not Empty.
+
+-----------------------------
+
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 6
+---------------------------------
+Size of the stack: 4
+-------------------------------
+
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 7
+---------------------------------
+
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 3
+---------------------------------
+Stack is
+-----------------------------
+
+0 - Exit.
+1 - Push an element to the stack.
+2 - Pop an element from the stack.
+3 - Display the stack.
+4 - To return the top element.
+5 - To check if stack is empty.
+6 - To get the size of the stack.
+7 - To clear the stack.
+---------------------------------
+Enter your choice: 0
+---------------------------------
