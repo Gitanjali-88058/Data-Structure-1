@@ -1,0 +1,126 @@
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 1
+Enter the element to push:10
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 1
+Enter the element to push:20
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 1
+Enter the element to push:30
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 1
+Enter the element to push:40
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 5
+-->> 10 20 30 40 
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 4
+-->> Queue is not empty.
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 3
+-->> 10 is the top element.
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 2
+-->> 10 get rmeoved.
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 2
+-->> 20 get rmeoved.
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 3
+-->> 30 is the top element.
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 5
+-->> 30 40 
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 1
+Enter the element to push:60
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 5
+-->> 30 40 60 
+Menu: 
+0. To exit
+1. To add an element to the queue.
+2. To remove an element to the queue.
+3. To get the top element from the queue.
+4. To check if the queue is empty.
+5. To display the queue.
+Enter your choice: 0
+ 
