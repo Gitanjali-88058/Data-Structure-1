@@ -1,0 +1,50 @@
+Menu-- 
+0-To exit.
+1- Implement by making push operation costly.
+2- Implement by making pop operation costly.
+Enter the choice: 1
+1- Push the element into the queue.
+2- Pop the element from the queue.
+3- Display the queue.
+Enter the choice:1
+Enter the element to be pushed: 10
+Enter the choice:1
+Enter the element to be pushed: 20
+Enter the choice:1
+Enter the element to be pushed: 30
+Enter the choice:3
+-->>10 20 30 
+Enter the choice:2
+-->>10 is removed.
+Enter the choice:3
+-->>20 30 
+Enter the choice:0
+Menu-- 
+0-To exit.
+1- Implement by making push operation costly.
+2- Implement by making pop operation costly.
+Enter the choice: 2
+1- Push the element into the queue.
+2- Pop the element from the queue.
+3- Display the queue.
+Enter the choice:1
+Enter the element to be pushed: 40
+Enter the choice:1
+Enter the element to be pushed: 50
+Enter the choice:3
+-->>
+Enter the choice:2
+-->>30 is removed.
+Enter the choice:3
+-->>20 40 50 
+Enter the choice:2
+-->>20 is removed.
+Enter the choice:3
+-->>40 50 
+Enter the choice:0
+Menu-- 
+0-To exit.
+1- Implement by making push operation costly.
+2- Implement by making pop operation costly.
+Enter the choice: 0
+ 
