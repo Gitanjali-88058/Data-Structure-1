@@ -1,0 +1,7 @@
+3 3 4 
+0 4 5 
+0 0 6 
+
+Printing element at index[3,1] : 0
+Printing element at index[3,2] : 0
+Printing element at index[3,3] : 6
