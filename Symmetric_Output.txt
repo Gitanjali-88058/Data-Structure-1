@@ -1,0 +1,15 @@
+Enter the number of rows and columns int the symmetric matrix:  3
+3
+
+ Enter  the lower triangle matrix-
+Enter the value:2
+Enter the value:4
+Enter the value:6
+Enter the value:8
+Enter the value:10
+Enter the value:12
+
+Symmetric matrix is:
+2 4 8
+4 6 10
+8 10 12
